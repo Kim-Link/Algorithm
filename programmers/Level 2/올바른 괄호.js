@@ -13,7 +13,6 @@ function solution(s){
             result = false;
             break;
         }
-        
     }
     if(counter !==0){
         result = false
